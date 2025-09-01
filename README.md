@@ -1,6 +1,6 @@
 # PRÁCTICAS DE SISTEMAS OPERATIVOS 2024
 
-Este repositorio contiene las prácticas P0, P1, P2 y P3 de **Sistemas Operativos UDC**.
+Este repositorio contiene las prácticas P0, P1, P2 y P3 de **Sistemas Operativos UDC**. Las prácticas consisten en hacer una shell en C. Cada práctica es una ampliación y mejora de la anterior.
 
 ## Estructura de las prácticas + código
 
